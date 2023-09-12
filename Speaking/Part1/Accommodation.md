@@ -1,10 +1,23 @@
 ## Home/Accommondation
 
+>Note:
+>
+>描述房子类型：
+>
+>flat, house, villa, apartment, bungalow (一层的小别墅), dormitory (dorm)
+>
+>描述外部环境：
+>
+>suburb, rural area, countryside, urban area
+>
+
 ### 1. Are the transport facilities near your home very good?
 
-I usually go out by subway. There are two subways lines intersecting here. The Line 7 connects to Beijing West Railway Station, and Line 14 connects to Beijing South Railway Station. In addition, I can easily reach the airport within 2 transfers.
+I usually go out by public transport. There are two subways lines intersecting here. The Line 7 connects to Beijing West Railway Station, and Line 14 connects to Beijing South Railway Station. In addition, I can easily reach the airport within 2 transfers.
 
-### 2. Can you describe the place where you live?
+### 2.  Can you describe the place where you live?
+
+I'm living in a flat with 3 bedrooms and 1 living room,  It also contains 2 washingrooms, 1 shared in the public area and 1 private in the main bedreeom. I'm living alone now. This flat is only 1 km away from the CBD in Beijing.
 
 ### 3. What part of your home do you like the most?
 

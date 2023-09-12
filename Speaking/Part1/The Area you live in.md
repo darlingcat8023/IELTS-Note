@@ -2,7 +2,7 @@
 
 ### 1. Do you like the area that you live in?
 
-I love the area I live very much. This area located at center of ChaoYang district in Beijing, only 1 km away from the CBD, the public transport in this area establishes connections between 2 main railway stations and 1 international airport. You can reach anywhere you want easily.
+I love this area very much. This area located at center of ChaoYang district in Beijing, only 1 km away from the CBD, the public transport in this area establishes connections between 2 main railway stations and 1 international airport. You can reach anywhere you want easily.
 
 ### 2. Where do you like to go in that area?
 
