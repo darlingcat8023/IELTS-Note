@@ -1,5 +1,7 @@
 ## The area you live in
 
+> disturbing, noisy, furious
+
 ### 1. Do you like the area that you live in?
 
 I love this area very much. This area located at center of ChaoYang district in Beijing, only 1 km away from the CBD, the public transport in this area establishes connections between 2 main railway stations and 1 international airport. You can reach anywhere you want easily.
@@ -10,7 +12,7 @@ I usually visit the business complexes in this area. Threr are 3 large malls sur
 
 ### 3. Do you know any famous people in your area?
 
-Sorry, I haven't heard yet.
+Sorry, I haven't heard yet. I only know a group boss in the same floor with me. In fact, most of people here works everyday so we rarely recognize each other.
 
 ### 4. What are some changes in the area recently?
 
