@@ -15,3 +15,11 @@ Choosing a gift may probably a universal challenge. Many factors need to be cons
 ### 4. Do you think you are good at choosing gifts?
 
 I'm not good at choosing gifts. In the previous quesetion I emphsized the importance of a meaningful gift. As my common practice, I may usually pick smart gizmos for male friends, lipsticks or perfumes for female friends and health products for parents.
+
+
+
+### **notice**
+
+1. <font color='red'> 注意人称代词性别混淆 </font> 避免使用过多的人称代词指代某人
+2. 注意发音
+
