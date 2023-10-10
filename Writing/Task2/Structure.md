@@ -10,6 +10,8 @@
 
 同意观点的句型
 
+- I agree with this...
+
 不同意观点的句型
 
 - I would oppose sth / doing sth
@@ -18,9 +20,20 @@
 
 部分同意
 
+- While / Although I accept that ... 
+- I belive that ...
 
+### 2. 主体段(90 - 100词)
 
+分论点：采取某种立场的理由，出现在主体段的第一句，比较抽象
 
+解释：细化分论点
 
-### 2.
+- 解释概念：in other words, to be specific, it means that
+- 解释结果：as a result, consequently, lead to
+- 解释原因： since, for, as
+
+举例：进一步证明解释部分
+
+总结：改写一下分论点
 
