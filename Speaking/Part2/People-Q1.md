@@ -13,3 +13,12 @@ You should say:
 
 ### Example
 
+
+
+So today, I want to talk about the famous chef Gordon Ramsay, born in England. He is not just a chef but also a standard in cooking. He has won the top award in his domain, the Michelin 3-star award.
+
+He is skilled in British cuisine and French cuisine. One of his famous dishes is called Wellington steak, a wonderful raw steak wrapped in mushroom sauce and Parma ham first, and then wrapped in pastry mixed with butter and flavor. After a 3-minute toast, the dish is done. He can make an exquisite dish with only basic ingredients.
+
+He has created a famous fine-dining restaurant called Hell's Kitchen, loved by celebrities in London, and branches have been launched in Tokyo and Las Vegas. He also hosts a long-time TV show with the same name as his restaurant and now it comes to season 20. There is an interesting challenge in the TV show where the competitors must imitate his dish without knowing the ingredient list. If the player makes some mistakes, he will criticize them strictly.
+
+He shows his talent in cooking every time and anywhere, demonstrating his success in many countries. He is dedicated to taking cooking skills to the whole world, teaching people how to cook at home simply. Many people benefit from him.
