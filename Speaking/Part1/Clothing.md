@@ -16,4 +16,4 @@ Similar to Q1
 
 ### 4. Do you spend a lot of time choosing clothes?
 
-Off course, I think men’s clothes should match their temperament, I should thought what kind of clothes are needed for what occasion. And some innerwear factors should also be considered, for example I'm tall and thin, so if the vertical size is ok and the horizontal size will be a little small and <font color='red'>vice versa</font>. So it uaually spend me a lot of time.
+Off course, I think men’s clothes should match their temperament, I should thought what kind of clothes are needed for what occasion. And some innerwear factors should also be considered, for example I'm tall and thin, so if the vertical size is ok and the horizontal size will be a little smaller and <font color='red'>vice versa</font>. So it uaually spend me a lot of time.

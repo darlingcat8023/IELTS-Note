@@ -13,4 +13,3 @@ You should say:
 
 ### Example
 
-Well, today I want to talk about an interesting person, 
