@@ -37,10 +37,24 @@
 
 总结：改写一下分论点
 
-- It is ... who / that : 强调句
+强调句的结构
+
+- It is ... who / that
 - Had it not been for + n., sb. would have not done sth. : 如果不是因为...的话，就不会  =  if it had not been for s.th
-- 
 
-If it had not been for the enactment of the policy by government, teens would have gone astray.
+常用的衔接词
 
-It is local history that is more important than world history for school students to learn. 
+- inevitably 不可避免的
+- admittedly 必须承认的是
+-  normally 通常的，
+
+用来比较的句型
+
+- some people would...  while others...
+
+- however / nevertheless / nonetheless
+
+- by contrast / as a comparision
+
+
+
