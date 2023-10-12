@@ -37,4 +37,10 @@
 
 总结：改写一下分论点
 
-It is ... who 属于强调句
+- It is ... who / that : 强调句
+- Had it not been for + n., sb. would have not done sth. : 如果不是因为...的话，就不会  =  if it had not been for s.th
+- 
+
+If it had not been for the enactment of the policy by government, teens would have gone astray.
+
+It is local history that is more important than world history for school students to learn. 
