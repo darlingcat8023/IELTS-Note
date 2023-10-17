@@ -8,5 +8,5 @@ Undeniably, benefit from the improvement of material conditions and medical cond
 
 Additionally, the rise of elderly population implies a decline of the young population. Some professions will also be affected in the long term. The education industry will be affected first, especially early stage of education, the new population could not offset the huge gap, therefore these establishments may collapse. Secondly, some manufacturers which produce accessories for education may short on orders, they may reduce costs through cutting down employees, thus many people may be unemployed.
 
-Generally, the viewpoints above indicate the danger of aging population both in short trem and in long term, and the impact should not be ignored. In these case, disadvantages of this trend have obviously exceeded its advantages already.
+Generally, the viewpoints above indicate the danger of aging population both in short term and in long term, and the impact should not be ignored. In these case, disadvantages of this trend have obviously exceeded its advantages already.
 
