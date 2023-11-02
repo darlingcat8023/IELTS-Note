@@ -24,6 +24,15 @@ You should say:
 3. What business he/she does
 4. And explain why he/she is successful
 
+## Person-Q8: Describe a famous person you are interested in
+
+You should say:
+
+1. Who he/she is
+2. How you knew about him/her
+3. What he/she was like before he/she became famous
+4. And explain why you are interested in him/her
+
 ### Example
 
 So today, I want to talk about the famous chef Gordon Ramsay, born in England. He is not just a chef but also a standard in cooking. He has won the top award in his domain, the Michelin 3-star award.
