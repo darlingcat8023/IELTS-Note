@@ -1,4 +1,4 @@
-## Describe a person who enjoys cooking for others
+## Person-Q1: Describe a person who enjoys cooking for others
 
 You should say:
 
@@ -7,13 +7,24 @@ You should say:
 - Who he/she cooks for
 - And explain why he/she enjoys cooking
 
-### Tips
+## Person-Q3: Describe an interesting person that you have not met in person and would like to know more about
 
+You should say:
 
+1. Who this person is
+2. What interesting things he/she has done
+3. Why you want to know more about him/her
+
+## Person-Q5: Describe a successful businessperson you know (e.g. running a family business)
+
+You should say:
+
+1. Who this person is
+2. How you knew him/her
+3. What business he/she does
+4. And explain why he/she is successful
 
 ### Example
-
-
 
 So today, I want to talk about the famous chef Gordon Ramsay, born in England. He is not just a chef but also a standard in cooking. He has won the top award in his domain, the Michelin 3-star award.
 

@@ -1,4 +1,4 @@
-## Describe a place you plan to travel to that is far away from your home in the future
+## Place-Q4: Describe a place you plan to travel to that is far away from your home in the future
 
 You should say:
 
@@ -8,6 +8,15 @@ You should say:
 4. What you would do there
 5. Who you would go with
 6. And explain why you would like to visit the place
+
+## Event- Q13: Describe an exciting adventure you would like to take in the future
+
+You should say:
+
+1. What the adventure is
+2. Where you would go
+3. Who you would be with
+4. And explain why you would like to take the adventure
 
 ### Example
 
