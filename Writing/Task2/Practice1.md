@@ -9,4 +9,3 @@ Firstly, group work can obviously enhance the ability of cooperation. Group work
 Secondly, individuals may make mistakes, but they can easily correct them by absorbing information exchanged by others, we can call this self-correct ability. Serious mistakes could result inefficient effort, more effort paid, less goal reached and individuals may could not realise this. Group work establishes a baseline by communication. When errors occur, members can quickly react form this and continually adjust themselves, ensure their effort are directed in a right way.
 
 To sum up, compared to self-reliant tasks, team projects create more chances of promoting self-correct and collaboration skills. Peoples should attent more group activities instead of playing alone, I belive most of them can profit from this kind of skill reinforcements.
-
