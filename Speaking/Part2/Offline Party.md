@@ -16,6 +16,15 @@ You should say:
 3. What kind of party it was
 4. And explain why you enjoyed this party
 
+## Events-Q8: Describe an exciting activity that you experienced with someone else
+
+You should say:
+
+1. What the activity was
+2. Who you were with
+3. When and where it happened Why you went for it
+4. And explain how you felt about it
+
 ### Tips
 
 ### Example
