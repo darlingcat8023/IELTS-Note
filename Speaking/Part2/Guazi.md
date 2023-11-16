@@ -7,6 +7,15 @@ You should say:
 3. Why you gave the advice
 4. And explain how he/she followed your advice
 
+## Person-Q3: Describe a person who always has interesting ideas or opinions [new]
+
+You should say:
+
+1. Who this person is
+2. What this person does
+3. How you knew him/her
+4. And explain why you think his/her ideas or opinions are interesting
+
 ### Tips
 
 - dilemma: 困境

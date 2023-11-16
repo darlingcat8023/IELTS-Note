@@ -20,4 +20,4 @@ It locates at the northeast corner of Peking, besise Peking Capital Internationa
 
 Every time I take a flight at the Capital Airport, I will arrive 3 hours in advance so that I can walk in the park and take some exciting photos. I'm alse an aviation fan, so I'm interested in many kinds of aircrafts. The park directly faces one of the 3  runways of Capital Airport, if the air traffic control works form south to north, this park is just below the glide slope and heavy aircrafts will fly over your head at very low altitudes. 
 
-It’s an excellent photo spot for aviation fans, as long as the wether is good, fans will gather there with photographic equipments, capture the impressive moments of final approach . It is really an unique experience.
+It’s an excellent photo spot for aviation fans, as long as the wether is good, fans will gather there with photographic equipments, capture the impressive moments of final approach . It is really an exclusive experience.
